@@ -5,7 +5,6 @@
 
 let val1, val2;
 let dif;
-
 console.log("Insira o Valor 1");
 val1 = 10;
 console.log(`${val1}`);
@@ -13,8 +12,9 @@ console.log("Insira o Valor 2");
 val2 = 7;
 console.log(`${val2}`);
 
-dif = val1 - val2;
-
+   if {val1 > val2
+ dif = val1 - val2
+}; else {
+    dif = val2 - val1
+};
 console.log(`A diferença é ${dif}`);
-
-console.log("FIM DO PROGRAMA");
