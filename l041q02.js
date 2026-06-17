@@ -14,3 +14,4 @@ if (capital == "brasilia") {
 }
 
 console.log("FIM DO PROGRAMA!");
+//teste2
