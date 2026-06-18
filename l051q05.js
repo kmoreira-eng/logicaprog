@@ -1,11 +1,10 @@
 
-int = 2;
+let num = 1;
 let cont = 1;
-let tab;
 
-while (cont2 <= 20) {
-    console.log(int)
-    tab = int * cont;
-    
+while (cont <= 20) {
+   let resul = num * cont;
+   console.log(`${num} x ${cont} = ${resul}`);
+    cont = cont + 1;
 
 }
