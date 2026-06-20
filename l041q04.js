@@ -8,7 +8,7 @@ let resto4;
 let resto5;
 
 console.log("Informe um valor númerico: ");
-num = 16;
+num = 1000;
 console.log(`Valor inserido ${num}`);
 
 resto4 = num %4;
